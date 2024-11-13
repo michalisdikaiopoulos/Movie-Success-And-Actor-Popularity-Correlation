@@ -1,0 +1,7 @@
+
+*.db
+ExtractDataSQL.ipynb
+/data/IMDB
+data/Kaggle/Mojo_budget_update.csv/Mojo_budget_update.csv.zip
+data/Kaggle/Rotten_Tomatoes/Rotten_Tomatoes.zip
+/data/Kaggle
